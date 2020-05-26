@@ -2,7 +2,7 @@
 
 While images are matrices, binary descriptors are traditionally employed for fingerprinting features. Instead of restricting this process to zeros and ones, the idea is that if we include the whole range of values in between as well, maybe the process turns out to be more efficient. 
 
-The fuzzy mechanism applied on the GIST descriptor for Face Recognition applications can be read here: 
+The fuzzy mechanism applied on the GIST descriptor for Face Recognition applications is described in my paper: 
 https://www.researchgate.net/publication/320065906_Face_Recognition_Using_the_Novel_Fuzzy-GIST_Mechanism
 
 <h1> Image matching using sift and ransac </h1>
